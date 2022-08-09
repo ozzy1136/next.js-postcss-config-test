@@ -4,7 +4,7 @@ module.exports = {
       autoprefixer: false,
       stage: 4,
       features: {
-        "display-two-values": false,
+        "display-two-values": true,
       },
     },
   },

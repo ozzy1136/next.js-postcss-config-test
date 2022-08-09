@@ -1,0 +1,17 @@
+.testDiv {
+  /* Test property */
+  display: block flex;
+
+  flex-direction: column;
+  row-gap: 2rem;
+  width: 100%;
+  max-width: 500px;
+  height: 100vh;
+  max-height: 450px;
+}
+
+.child {
+  width: 100%;
+  height: 100%;
+  background-color: purple;
+}
